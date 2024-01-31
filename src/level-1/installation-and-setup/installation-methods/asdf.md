@@ -9,15 +9,15 @@ You will need to have `git` and `curl` installed on your machine to clone the as
 - Add the following line to your shell configuration file:
     - If you're using `bash` on **Linux**:
       ```bash
-      echo '. $HOME/.asdf/asdf.sh' >> ~/.bashrc
+      echo '. "$HOME/.asdf/asdf.sh"' >> ~/.bashrc
       ```
     - Or if you're using `bash` on **macOS**:
       ```bash
-      echo '. $HOME/.asdf/asdf.sh' >> ~/.bash_profile
+      echo '. "$HOME/.asdf/asdf.sh"' >> ~/.bash_profile
       ```
     - If you're using `zsh` on both:
       ```zsh
-      echo '. $HOME/.asdf/asdf.sh' >> ~/.zshrc
+      echo '. "$HOME/.asdf/asdf.sh"' >> ~/.zshrc
       ```
     - You can install with other shell (e.g. `fish`) or with packages manager (e.g. `homebrew` and `pacman`), please
       refer to the [asdf documentation](https://asdf-vm.com/guide/getting-started.html).
