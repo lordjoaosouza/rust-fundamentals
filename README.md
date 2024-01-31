@@ -15,6 +15,7 @@ structures, and algorithms. The content is organized into levels, providing a st
 - [ ] Hello World in Rust
 - [ ] Variables and Data Types
 - [ ] Control Flow (if, else, match)
+- [ ] Loops (while, for)
 - [ ] Functions and Modules
 - [ ] Error Handling (Result and Option)
 - [ ] Enums and Pattern Matching
