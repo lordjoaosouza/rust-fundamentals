@@ -11,7 +11,7 @@ structures, and algorithms. The content is organized into levels, providing a st
 ### Level 1: Rust Fundamentals
 
 - [ ] Introduction to Rust
-- [ ] Installation and Setup
+- [ ] [Installation and Setup](src/level-1/installation-and-setup/installation-and-setup.md)
 - [ ] Hello World in Rust
 - [ ] Variables and Data Types
 - [ ] Control Flow (if, else, match)
