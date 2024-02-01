@@ -29,4 +29,4 @@
 All these commands and links are available on the official [**Rust** website](https://www.rust-lang.org/tools/install).
 
 So now you have **Rust** installed on your machine, let's move on to the next section to learn more about the [**Rust**
-toolchain]().
+toolchain, compiler and standard library](../../toolchain-compiler-and-standard-library/toolchain-compiler-and-standard-library.md).

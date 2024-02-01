@@ -19,3 +19,7 @@ You can see the full instructions to install **Rust** with **asdf** [here](insta
 ### Installing with rustup (official Rust method)
 
 You can see the full instructions to install **Rust** with **rustup** [here](installation-methods/rustup.md).
+
+If you already have **Rust** installed on your machine, you can skip this chapter and move on to the next section to
+learn more about the [**Rust**
+toolchain, compiler and standard library](../toolchain-compiler-and-standard-library/toolchain-compiler-and-standard-library.md).

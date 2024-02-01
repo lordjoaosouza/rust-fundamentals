@@ -1,4 +1,4 @@
-### Installing with asdf (Linux and macOS only)
+### Installing with asdf [Linux (includes WSL) and macOS only]
 
 You will need to have `git` and `curl` installed on your machine to clone the **asdf** repository.
 
@@ -90,4 +90,4 @@ You will need to have `git` and `curl` installed on your machine to clone the **
   You should see the path where **asdf** installed these binaries printed to the console.
 
 So now you have **Rust** installed on your machine, let's move on to the next section to learn more about the [**Rust**
-toolchain]().
+toolchain, compiler and standard library](../../toolchain-compiler-and-standard-library/toolchain-compiler-and-standard-library.md).
